@@ -1,8 +1,8 @@
 <h2 align="center">Hi there👋,Welcome to my GitHub page!</h2>
 
-###
-- I'm Chitti Raja, and I am a Java Full Stack Developer. I am available for immediate joining and excited to contribute to new and challenging projects.
-- Connect with me <a href='https://www.linkedin.com/in/chitti-raja-achari-kottapalli-b331b5287/'>LinkedIn</a> and <a href='https://twitter.com/ChittirajchariK'>X</a>.
+###  
+- I'm **Chitti Raja**, a passionate **Java Full Stack Developer** with over 2 years of experience in building scalable, high-performance web applications. I am available for immediate joining and excited to contribute to new and challenging projects.  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/chitti-kottapalli/) and [X](https://twitter.com/ChittirajchariK).
 
 <div align="center" >
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-23-225999.png?f=webp&w=256" height="30" alt="javascript logo" />
