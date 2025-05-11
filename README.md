@@ -4,7 +4,7 @@
 - Hi, I'm Chitti Raja, a passionate Full Stack Java Developer with over 2 years of experience in building scalable, high-performance web applications.
 I specialize in developing both frontend and backend solutions using modern Java frameworks, including Spring Boot, and have experience integrating with various databases and front-end technologies.
 
-I am actively seeking opportunities to contribute to innovative and challenging projects where I can leverage my expertise in Java, Spring Boot, and web development to deliver robust solutions.
+- I am actively seeking opportunities to contribute to innovative and challenging projects where I can leverage my expertise in Java, Spring Boot, and web development to deliver robust solutions.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chitti-kottapalli/) and [X](https://twitter.com/ChittirajchariK).
 
 <div align="center" >
